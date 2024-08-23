@@ -22,7 +22,8 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.subheader("SK매직 | 에코미니 정수기 사용법을 알려드려요😊")
+st.image("./data/logo.jpg", width=100)
+st.subheader("에코미니 정수기 사용법을 알려드려요😊")
 st.caption("궁금한 내용을 자유롭게 물어보세요!")
 
 if "messages" not in st.session_state:
