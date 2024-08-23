@@ -1,12 +1,13 @@
 import streamlit as st
 import time
-from model import result_return
+from model import response_from_llm
 from streamlit.runtime.scriptrunner import get_script_run_ctx
 
-# LangChain Model
+# model 모듈 사용하여 응답 받아오는 부분
+# Streamlit 응답 타이핑 시각화
 def response_generator(user_text):
     session_id = get_script_run_ctx().session_id
-    response = result_return(user_text, session_id)
+    response = response_from_llm(user_text, session_id)
     for line in response.split('\n'):
         for word in line.split():
             yield word + " "
