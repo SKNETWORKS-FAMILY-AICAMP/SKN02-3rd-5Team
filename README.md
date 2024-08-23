@@ -39,6 +39,26 @@
 
 <br>
 
+## Tech Stack
+
+### Development Tools (개발 도구)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+
+### Collaboration Tools (협업 도구)
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+
+### Version Control (버전 관리)
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+### AI & Machine Learning (인공지능 및 머신러닝)
+<img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=whitee" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+
+
+### Web Development (웹 개발)
+<img src="https://img.shields.io/badge/StreamLit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+<br>
+
 # Smart Manual: QR로 만나는 AI 사용설명서
 Smart Manual: QR로 만나는 AI 사용설명서는 AI 기반의 대화형 사용자 매뉴얼입니다. 사용자가 궁금한 사항을 질문하면 AI가 실시간으로 답변을 제공하며. 이 프로젝트는 Streamlit을 사용하여 웹 애플리케이션을 구축하였으며, OpenAI의 언어 모델을 활용해 사용자와 자연스러운 대화를 이어나갑니다. 다양한 PDF 문서를 간단하게 처리하여 중요한 정보를 추출하고, 이를 바탕으로 사용자가 필요한 정보를 빠르고 정확하게 제공하는 것을 목표로 합니다.  
 
@@ -89,23 +109,3 @@ Smart Manual: QR로 만나는 AI 사용설명서는 AI 기반의 대화형 사�
 
 - **실시간 피드백 시스템 구축**: 사용자의 피드백을 실시간으로 수집하고 분석할 수 있는 시스템을 구축하여, 사용자가 경험하는 문제점을 즉각적으로 파악하고 개선할 수 있습니다. 예를 들어, 사용자 불만 사항을 분석하여 모델의 응답이나 UI/UX를 개선하는 데 활용할 수 있습니다.
 - **지속적인 사용자 경험 개선**: 사용자 인터페이스와 상호작용을 지속적으로 개선하기 위해 정기적인 사용자 테스트를 실시하고, 이를 바탕으로 인터페이스를 업데이트합니다.
-
-<br>
-
-## Tech Stack
-
-### Development Tools (개발 도구)
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-2F80ED?style=for-the-badge&logo=codefactor&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-
-### Collaboration Tools (협업 도구)
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/GoogleDrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
-
-### Version Control (버전 관리)
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-### AI & Machine Learning (인공지능 및 머신러닝)
-<img src="https://img.shields.io/badge/OpenAi-412991?style=for-the-badge&logo=openai&logoColor=whitee" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-
-
-### Web Development (웹 개발)
-<img src="https://img.shields.io/badge/StreamLit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
