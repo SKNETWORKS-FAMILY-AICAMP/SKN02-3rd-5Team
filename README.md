@@ -66,7 +66,7 @@ Smart Manual: QR로 만나는 AI 사용설명서는 AI 기반의 대화형 사�
 이 프로젝트는 사용자의 간단한 접근으로 모델이 문서의 정보를 추출하여 가공하고 실시간으로 쉽게 대화할 수 있는 챗봇을 제공하는것을 목표로 설정하였습니다. 주제로 선정하게 된 배경은 사용자들이 메뉴얼을 읽는 불편함을 줄이고, 좀 더 상호작용적인 경험을 제공하기 위함입니다. 특히, RAG(Retrieval-Augmented Generation)(검색 - 생성 결합 모델) 기술을 활용하여 비용 효율적인 구현, 사용자의 신뢰 강화, 모델의 맥락 이해력을 향상 시킬 수 있는 답변을 제공하도록 구상하였습니다.
 
 ## 프로젝트 실행
-.env 파일에 개인 API KEY를 넣고 command창에 python run.py를 입력하면 실행됩니다.
+.env 파일에 개인 API KEY를 넣고 command창에 python run.py를 입력하면 실행됩니다.<br/>
 (웹 배포 중 --> https://chatbot-3rd-project.streamlit.app/)
 
 ## 데이터
