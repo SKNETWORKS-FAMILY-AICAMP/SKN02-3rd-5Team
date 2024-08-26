@@ -67,6 +67,7 @@ Smart Manual: QR로 만나는 AI 사용설명서는 AI 기반의 대화형 사�
 
 ## 프로젝트 실행
 .env 파일에 개인 API KEY를 넣고 command창에 python run.py를 입력하면 실행됩니다.
+(웹 배포 중 --> https://chatbot-3rd-project.streamlit.app/)
 
 ## 데이터
 이 프로젝트에서 사용된 데이터는 SK매직 서비스 센터에서 제공하는 제품 사용 설명서 중, 특히 SK매직에서 가장 잘 판매되는 정수기 상품군의 설명서중 하나를 기반으로 수집되었습니다. 
