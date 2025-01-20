@@ -1,4 +1,4 @@
-# SKN AI Camp 3차 프로젝트
+# Smart Manual: QR로 만나는 AI 사용설명서
 
 ## SKN02-3rd-5Team
 <table>
